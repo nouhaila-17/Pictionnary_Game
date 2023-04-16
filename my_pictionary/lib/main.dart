@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color.fromARGB(255, 59, 141, 141),
+          seedColor: const Color.fromARGB(255, 83, 49, 157),
         ),
       ),
       //route to other pages(widgets)

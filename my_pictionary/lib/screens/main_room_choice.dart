@@ -3,7 +3,7 @@ import 'package:my_pictionary/responsive/responsive.dart';
 import 'package:my_pictionary/screens/create_room_screen.dart';
 import 'package:my_pictionary/screens/join_room_screen.dart';
 import '../utils/color.dart';
-import '../widgets/costum_button.dart';
+import '../widgets/custom_button.dart';
 
 class MainRoomChoice extends StatelessWidget {
   //routes for after this page
